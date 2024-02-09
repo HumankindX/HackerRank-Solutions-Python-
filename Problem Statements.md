@@ -28,7 +28,7 @@ Sample Input 1
 Sample Output 1
 Not Weird
 
-##Problem 2- 
+## Problem 2- 
 Task
 The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
 The first line contains the sum of the two numbers.
